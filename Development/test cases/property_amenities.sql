@@ -1,0 +1,1 @@
+SELECT * FROM airbnb.property_amenities;
