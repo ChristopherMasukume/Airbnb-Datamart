@@ -1,0 +1,21 @@
+"id";"host_id";"property_type_id";"room_type_id";"address_id";"bed_type";"occupants";"bathrooms";"bedrooms";"price";"description";"latitude";"longitute"
+1;2;1;1;12;"King";1;2;3;645.92;"Nostrum qui. Sit ut.";3.0;3.0
+2;1;4;3;14;"Queen";1;2;2;934.68;"Error voluptates accusantium.";9.0;-1236280.0
+3;1;2;4;9;"Twin";4;1;3;906.69;"Autem repudiandae quos.";-9.0;174658.0
+4;1;2;1;8;"Full mattress";2;1;2;946.57;"Voluptas magni. Incidunt quia;";24.0;6369950.0
+5;1;1;4;6;"Queen";2;2;1;264.2;"Quod delectus.";40.0;2676190.0
+6;2;2;4;10;"Queen";3;1;2;778.64;"Exercitationem consectetur.";56.0;-5611340.0
+7;2;3;2;13;"Queen";4;2;2;732.03;"Tempore error facere...";-52.0;1031270.0
+8;2;1;4;15;"Twin";2;1;1;916.31;"Maiores adipisci.";56.0;56.0
+9;1;2;3;12;"Full mattress";3;1;2;252.68;"Iusto maiores dicta beatae.";84.0;84.0
+10;2;1;3;17;"Twin";5;1;1;636.24;"Ratione obcaecati. Sint fugit.";-87.0;1588330.0
+11;2;3;4;2;"Full mattress";5;1;3;735.92;"Aut eos ducimus qui non.";76.0;627.0
+12;2;3;1;16;"Twin";1;2;3;624.98;"Et explicabo accusantium et.";64.0;3826260.0
+13;1;4;1;11;"Full mattress";5;2;1;791.08;"Facere et amet. Iure at.";-38.0;8143130.0
+14;2;3;3;19;"King";3;1;1;435.2;"Molestias temporibus.";19.0;-9933400.0
+15;1;2;4;17;"Full mattress";4;2;3;794.84;"Natus perspiciatis.";84.0;-8360980.0
+16;2;4;4;16;"King";4;1;2;548.72;"Perferendis sequi. Est omnis.";47.0;1055.0
+17;2;4;4;20;"Queen";5;2;2;156.87;"Accusantium incidunt. Ipsam.";-47.0;-9930730.0
+18;2;4;2;4;"King";5;1;2;269.41;"Iste quia; quidem veniam.";1.0;7849770.0
+19;2;3;3;4;"King";2;2;1;287.91;"Voluptatem molestiae unde.";-27.0;3646230.0
+20;2;1;3;2;"Full mattress";3;2;1;908.28;"Cumque est voluptatem omnis.";26.0;4209.0

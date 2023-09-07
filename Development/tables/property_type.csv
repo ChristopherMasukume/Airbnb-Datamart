@@ -1,0 +1,5 @@
+"id";"type_name";"description"
+1;"apartment";"rented residential units that are part of a building."
+2;"duplex";"a single structure with two private living spaces that share a space."
+3;"single-family home";"stand alone unit fit for a family."
+4;"villa";"unit with its own garage with internal access."
