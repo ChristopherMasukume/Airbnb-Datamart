@@ -3,7 +3,7 @@ A general representation of the functionality of the system an Airbnb would make
 ![ER Model](https://github.com/ChristopherMasukume/Airbnb-Datamart/blob/main/Conception/ER-Diagram%20Airbnb.png)
 
 # schema details
-The schema details are found [here]
+The schema details are found [here](https://github.com/ChristopherMasukume/Airbnb-Datamart/blob/main/Finalization/metadata.png)
 # Installation
 
 It is important to install MySQL on your system, then the data mart can be used with any MySQL database system preferably MySQL Workbench community version.
