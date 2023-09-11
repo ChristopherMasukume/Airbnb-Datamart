@@ -1,6 +1,6 @@
 # Airbnb-Datamart
 A general representation of the functionality of the system an Airbnb would make use of.
-![ER Model](https://github.com/mohamadsolouki/airbnb-datamart/blob/main/01-Concept/Final%20ERM.png)
+![ER Model](https://github.com/ChristopherMasukume/Airbnb-Datamart/blob/main/Conception/ER-Diagram%20Airbnb.png)
 
 In the following picture, the details of the schema have been shown. Using the “SHOW TABLE STATUS FROM db” query, I extract the schema information in a .csv file which is available in the finalization directory.
 
